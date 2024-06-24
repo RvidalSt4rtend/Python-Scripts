@@ -1,7 +1,7 @@
 import os
 import shutil
 
-OriginRoute = 'C:/Users/Ardal/Downloads'
+OriginRoute = 'C:/Users/User/Downloads'
 extension_folders = {
     '.jpeg': 'JPEGs',
     '.png': 'PNGs',
