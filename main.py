@@ -5,7 +5,8 @@ OriginRoute = 'C:/Users/User/Downloads'
 extension_folders = {
     '.jpeg': 'JPEGs',
     '.png': 'PNGs',
-    '.pdf': 'PDFs'
+    '.pdf': 'PDFs',
+    '.docx': 'DOCs'
 }
     
 
