@@ -1,4 +1,8 @@
-# FileSorter
+# Python Scripts
+![pythonScripts](https://github.com/RvidalSt4rtend/Python-Scripts/assets/137844632/fb58ce44-b34a-4b48-aeb9-a769cabeed4f)
+
+
+## 1. File Sorter
 This script automates the organization of files based on their types (extensions) into designated folders. It currently supports organizing files with extensions such as .jpeg, .png, and .pdf into respective folders (JPEGs, PNGs, PDFs).
 
 Usage
